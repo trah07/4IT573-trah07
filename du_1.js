@@ -1,5 +1,5 @@
 const randomNum = Math.floor(Math.random() * 10) + 1;
-const maxAttempts = 3;
+const maxAttempts = 5;
 let attempts = 0;
 
 function askUser() {
